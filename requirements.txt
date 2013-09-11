@@ -2,4 +2,10 @@ Django==1.5.1
 dj-database-url==0.2.1
 gunicorn==17.5
 httplib2==0.8
+psycopg2==2.5.1
+pyOpenSSL==0.13
+python-dateutil==1.5
+unittest2==0.5.1
+virtualenv==1.9.1
+wsgiref==0.1.2
 dj-static==0.0.5
