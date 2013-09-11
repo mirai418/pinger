@@ -1,2 +1,2 @@
 
-web: gunicorn jsasite.wsgi
+web: gunicorn pinger.wsgi
